@@ -6,9 +6,4 @@
     <hr>
 </div>
 <div>
-    <br>
-    <h4>
-        <a href="github.com/thiagothales">Meu outro perfil no GitHub
-    </h4>
-    <br>
 </div> 
